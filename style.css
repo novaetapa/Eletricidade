@@ -19,7 +19,9 @@ main {
 
 .quiz-page {
     display: none;
-}
+}git add .
+git commit -m "Initial commit"
+
 
 .quiz-page.active {
     display: block;
