@@ -17,7 +17,9 @@ document.addEventListener('DOMContentLoaded', () => {
         if (currentPage < totalPages) {
             currentPage++;
             showPage(currentPage);
-        }
+        }git add .
+git commit -m "Initial commit"
+
     });
     
     showPage(currentPage);
